@@ -8,3 +8,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: tidyverse
+URL: https://github.com/anpefi/anpefiR
+BugReports: https://github.com/anpefi/anpefiR/issues
