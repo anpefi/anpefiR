@@ -1,0 +1,10 @@
+Package: anpefiR
+Title: Personal collection of R functions
+Version: 0.0.0.9000
+Authors@R: person("Andrés", "Pérez-Figueroa", email = "andres.perez.figueroa@gmail.com", role = c("aut", "cre"))
+Description: This is the personal collection of R functions for myself.
+Depends: R (>= 3.4.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse
